@@ -1,17 +1,17 @@
+/**
+ * @type {import('gatsby').GatsbyConfig}
+ */
 module.exports = {
-    siteMetadata: {
-        siteUrl: 'https://www.yourdomain.tld',
-        title: 'Career Guidance & Placement Unit – College of Engineering Trivandrum',
+  siteMetadata: {
+    title: `cgpu-new`,
+    siteUrl: `https://www.yourdomain.tld`
+  },
+  plugins: ["gatsby-plugin-postcss", "gatsby-plugin-mdx", {
+    resolve: 'gatsby-source-filesystem',
+    options: {
+      "name": "pages",
+      "path": "./src/pages/"
     },
-    plugins: [
-        'gatsby-plugin-react-helmet',
-        'gatsby-transformer-json',
-        {
-            resolve: `gatsby-source-filesystem`,
-            options: {
-                name: `data`,
-                path: `${__dirname}/src/data/`,
-            },
-        },
-    ],
+    __key: "pages"
+  }]
 };
