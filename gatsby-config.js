@@ -6,7 +6,7 @@ module.exports = {
     title: `cgpu-new`,
     siteUrl: `https://www.yourdomain.tld`
   },
-  plugins: [ {
+  plugins: ["gatsby-plugin-postcss", "gatsby-transformer-remark", {
     resolve: 'gatsby-source-filesystem',
     options: {
       "name": "pages",
