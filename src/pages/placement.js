@@ -28,7 +28,7 @@ export default function Placement({ data: _pData }) {
                             recruitment process.{" "}
                         </span>
                         <span className="d-lg-block">
-                            The placement statistics of the institution over the last 5 years is as follows:
+                            The placement statistics of the institution over the last 4 years is as follows:
                         </span>
                     </div>
                 </div>
@@ -83,9 +83,9 @@ export default function Placement({ data: _pData }) {
                                     <th scope="col" className="ps-5">
                                         Branch
                                     </th>
-                                    <th scope="col" className="pe-5">
+                                    {/* <th scope="col" className="pe-5">
                                         Total Offers
-                                    </th>
+                                    </th> */}
                                     <th scope="col" className="pe-5">
                                         UG
                                     </th>
@@ -114,8 +114,10 @@ export default function Placement({ data: _pData }) {
                                 {keyedData[year].data.map((data, key) => (
                                     <tr className="" key={key}>
                                         <td className="ps-5">{data.branch}</td>
-                                        {/* <td className="block ps-5">{data.branch_small}</td> */}
+                                        {/* if (data.ug === 0) {
                                         <td className="ps-5">{data.offers}</td>
+                                        } */}
+
                                         <td className="pe-5">{data.ug}</td>
                                         <td className="pe-5">{data.pg}</td>
                                     </tr>

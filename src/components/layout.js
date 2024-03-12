@@ -35,11 +35,14 @@ export default function Layout({ children, page }) {
             <Header page={page} />
             {children}
             <div className="brochure-info d-md-flex text-md-start">
-                <div>To know more about the college and placement details,<br></br> please check out our brochure</div>
+                <br></br>
+                <div>To know more about the college and placement details, please check out our brochure</div>
                 <a href={`Brochure.pdf`} download className="download">
                     <img src={download} alt="download" />
                     <span>Download Brochure</span>
                 </a>
+                <br></br>
+
             </div>
             <Footer />
         </>
