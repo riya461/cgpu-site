@@ -15,16 +15,22 @@ export const faculty = [
         mail: "jayasreepk@cet.ac.in",
     },
     {
-        img: "/people/faculty/vipin.jpg",
-        title: "Prof. Vipin Vasu A V",
-        subtitle: "Assoc. Professor, Computer Science & Engineering",
-        mail: "vipin@cet.ac.in",
+        img: "/people/faculty/Praveen.jpg",
+        title: "Dr. Praveen A",
+        subtitle: "Assoc. Professor, Mechanical Engineering",
+        mail: "placement@cet.ac.in",
     },
     {
-        img: "/people/faculty/jerrin.png",
-        title: "Prof. Jerrin Thomas",
+        img: "/people/faculty/Sreeja1.png",
+        title: "Dr. Sreeja S.",
+        subtitle: "Assoc. Professor, Electrical Engineering",
+        mail: "sreeja@cet.ac.in",
+    },
+    {
+        img: "/people/faculty/linu.jpg",
+        title: "Dr. Linu Shine",
         subtitle: "Asst. Professor, Electronics & Communication Engineering",
-        mail: "jerrin.panachakel@cet.ac.in",
+        mail: "linushine@cet.ac.in",
     },
 ];
 
