@@ -57,6 +57,7 @@ export default function AboutCGPU() {
                                             <div className="card-text">
                                                 <div className="card-title">{item.title}</div>
                                                 <div className="card-subtitle">{item.subtitle}</div>
+                                                <div className="card-subtitle">{item.dept}</div>
                                                 <a href={`mailto:${item.mail}`} className="card-mail">
                                                     {item.mail}
                                                 </a>
@@ -78,6 +79,7 @@ export default function AboutCGPU() {
                                             <div className="card-text">
                                                 <div className="card-title">{item.title}</div>
                                                 <div className="card-subtitle">{item.subtitle}</div>
+                                                <div className="card-subtitle">{item.dept}</div>
                                                 <a href={`mailto:${item.mail}`} className="card-mail text-truncate">
                                                     {item.mail}
                                                 </a>
