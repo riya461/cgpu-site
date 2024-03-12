@@ -86,6 +86,12 @@ export default function Placement({ data: _pData }) {
                                     <th scope="col" className="pe-5">
                                         Total Offers
                                     </th>
+                                    <th scope="col" className="pe-5">
+                                        UG
+                                    </th>
+                                    <th scope="col" className="pe-5">
+                                        PG
+                                    </th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -106,9 +112,12 @@ export default function Placement({ data: _pData }) {
                                     </tr>
                                 ))} */}
                                 {keyedData[year].data.map((data, key) => (
-                                    <tr key={key}>
+                                    <tr className="" key={key}>
                                         <td className="ps-5">{data.branch}</td>
-                                        <td className="pe-5">{data.offers}</td>
+                                        {/* <td className="block ps-5">{data.branch_small}</td> */}
+                                        <td className="ps-5">{data.offers}</td>
+                                        <td className="pe-5">{data.ug}</td>
+                                        <td className="pe-5">{data.pg}</td>
                                     </tr>
                                 ))}
                             </tbody>

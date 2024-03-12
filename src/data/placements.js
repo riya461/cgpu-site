@@ -6,13 +6,13 @@ export const placements = [
     {
         year: 2022,
         data: [
-            { branch: "Computer Science and Engineering", offers: 126 },
-            { branch: "Electronics and Communication Engineering", offers: 113 },
+            { branch: "Computer Science and Engineering", branch_small: "CSE", offers: 126, ug:80, pg:46 },
+            { branch: "Electronics and Communication Engineering", offers: 113, ug:127, pg:50 },
             { branch: "Applied Electronics and Instrumentation", offers: 64 },
-            { branch: "Electrical and Electronics Engineering", offers: 172 },
-            { branch: "Mechanical Engineering", offers: 155 },
+            { branch: "Electrical and Electronics Engineering", offers: 172, ug: 129, pg:43 },
+            { branch: "Mechanical Engineering", offers: 155, ug: 177, pg:38 },
             { branch: "Industrial Engineering", offers: 60 },
-            { branch: "Civil Engineering", offers: 123 },
+            { branch: "Civil Engineering", offers: 123, ug:88, pg:35 },
         ],
     },
     {
