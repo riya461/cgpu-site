@@ -10,7 +10,7 @@ const RecruitersMarquee = () => {
 
     return (
         <div className="major my-5">
-            <div className="majortext page-head">Our Recruiters</div>
+            <div className="majortext page-head">Major Recruiters</div>
             <div className="position-relative">
                 <div className="major-overlay" />
                 <Marquee>

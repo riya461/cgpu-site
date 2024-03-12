@@ -12,7 +12,7 @@ export default function Placement({ data: _pData }) {
     // const keyedData = {};
     // pData.map((p) => (keyedData[p.year] = p));
 
-    const [year, setYear] = useState(placements[2].year);
+    const [year, setYear] = useState(placements[0].year);
     const keyedData = {};
     placements.map((placement) => (keyedData[placement.year] = placement));
 
@@ -28,7 +28,7 @@ export default function Placement({ data: _pData }) {
                             recruitment process.{" "}
                         </span>
                         <span className="d-lg-block">
-                            The placement statistics of the institution over the last 3 years is as follows:
+                            The placement statistics of the institution over the last 5 years is as follows:
                         </span>
                     </div>
                 </div>
