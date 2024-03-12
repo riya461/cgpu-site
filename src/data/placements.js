@@ -36,4 +36,28 @@ export const placements = [
             { branch: "Civil Engineering", offers: 46 },
         ],
     },
+    {
+        year: 2021,
+        data: [
+            { branch: "Computer Science and Engineering", offers: 165 },
+            { branch: "Electronics and Communication Engineering", offers: 156 },
+            { branch: "Applied Electronics and Instrumentation", offers: 55 },
+            { branch: "Electrical and Electronics Engineering", offers: 211 },
+            { branch: "Mechanical Engineering", offers: 158 },
+            { branch: "Industrial Engineering", offers: 66 },
+            { branch: "Civil Engineering", offers: 77 },
+        ],
+    },
+    {
+        year: 2022,
+        data: [
+            { branch: "Computer Science and Engineering", offers: 126 },
+            { branch: "Electronics and Communication Engineering", offers: 113 },
+            { branch: "Applied Electronics and Instrumentation", offers: 64 },
+            { branch: "Electrical and Electronics Engineering", offers: 172 },
+            { branch: "Mechanical Engineering", offers: 155 },
+            { branch: "Industrial Engineering", offers: 60 },
+            { branch: "Civil Engineering", offers: 123 },
+        ],
+    },
 ];
