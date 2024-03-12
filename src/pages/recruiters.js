@@ -8,7 +8,7 @@ export default function Recruiters() {
         <Layout page="recruiters">
             <div className="main-container mb-4 mb-md-0">
                 <div className="align-self-start head-desc-main">
-                    <div className="page-head">Our Recruiters</div>
+                    <div className="page-head">Major Recruiters</div>
                     <div className="head-desc placement">
                         <span>
                             We have the world's leading companies coming forth to recruit our students; offering
