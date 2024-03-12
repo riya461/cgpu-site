@@ -15,7 +15,7 @@ const VisionMission = () => {
                     </div>
                     <div className="px-5 ps-md-0 py-4 py-md-0 text-center text-md-end order-md-1">
                         <h4>Our Vision</h4>
-                        <div className="text mx-auto">
+                        <div className="text mx-auto ">
                             National Level Excellence and International Visibility in Every Facet of Engineering
                             Research and Education.
                         </div>
