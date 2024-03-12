@@ -39,131 +39,72 @@ export const faculty = [
 ];
 
 export const reps = [
+    
     {
-        img: "/people/reps/lakshmi.jpg",
-        title: "Lakshmi U G",
-        subtitle: "B.Tech, Computer Science and Engineering",
-        mail: "lakshmiug36524@cet.ac.in",
+        img: "/people/reps/vishnu_s6_civil.jpg",
+        title: "Vishnu Hari H G",
+        subtitle: "B.Tech, Civil Engineering",
+        
     },
     {
-        img: "/people/reps/sruthi.jpg",
-        title: "Sruthi Syam",
-        subtitle: "B.Tech, Electronics and Communication Engineering",
-        mail: "sruthisyam11@cet.ac.in",
-    },
-    {
-        img: "/people/reps/ananya.jpg",
-        title: "Ananya K V",
-        subtitle: "B.Tech, Applied Electronics and Instrumentation",
-        mail: "kvananya8@cet.ac.in",
-    },
-    {
-        img: "/people/reps/ancil.jpg",
-        title: "Ancil Tom Assisi",
-        subtitle: "B.Tech, Electrical and Electronics Engineering",
-        mail: "ancil.assisi@gmail.com",
-    },
-    {
-        img: "/people/reps/hari.jpg",
-        title: "Hariprasad N",
-        subtitle: "B.Tech, Electrical and Electronics Engineering",
-        mail: "hariprasadhp@cet.ac.in",
-    },
-    {
-        img: "/people/reps/samjid.jpg",
-        title: "Samjid Basheer",
-        subtitle: "B.Tech, Mechanical Engineering",
-        mail: "samjidkr@gmail.com",
-    },
-    {
-        img: "/people/reps/aswin.jpg",
-        title: "Aswin Sunil Soman",
-        subtitle: "B.Tech, Mechanical Engineering",
-        mail: "aswin.sunil0403@gmail.com",
-    },
-    {
-        img: "/people/reps/arya.jpg",
-        title: "Arya Raj M",
+        img: "/people/reps/edwin_ie_s6.jpg",
+        title: "Edwin Emmanuel Roy", 
         subtitle: "B.Tech, Industrial Engineering",
-        mail: "aryarm20@gmail.com",
+        
     },
     {
-        img: "/people/reps/munavar.jpg",
-        title: "Munavar T P",
-        subtitle: "B.Tech, Civil Engineering",
-        mail: "tpmunavar@gmail.com ",
+        img: "/people/reps/karthik_ae_s6.jpg",
+        title: "Karthik Ramesh",
+        subtitle: "B.Tech, Applied Electronics and Instrumentation",
+       
     },
     {
-        img: "/people/reps/abhirami.jpg",
-        title: "Abhirami N P",
-        subtitle: "B.Tech, Civil Engineering",
-        mail: "abhiraminp67119@gmail.com",
+        img: "/people/reps/nikitha_mech_s6.jpg",
+        title: "Nikitha Murali P",
+        subtitle: "B.Tech, Mechanical Engineering",
+        
     },
     {
-        img: "/people/reps/james.jpg",
-        title: "James Jose",
-        subtitle: "B.Arch",
-        mail: "jamesjosejjp@cet.ac.in",
+        img: "/people/reps/gowrimenon_s6_eee.jpg",
+        title: "Gowri Menon",
+        subtitle: "B.Tech, Electrical and Electronics Engineering",
+        
     },
     {
-        img: "/people/reps/siyad.jpg",
-        title: "Muhammed Siyad A",
-        subtitle: "M.Tech, Computer Science and Engineering",
-        mail: "muhammedsiyad386@gmail.com",
+        img: "/people/reps/alanaji_s6_cse.jpg",
+        title: "Alan Aji",
+        subtitle: "B.Tech, Computer Science Engineering",
+       
     },
     {
-        img: "/people/reps/amritha.jpg",
-        title: "Amritha M L",
-        subtitle: "MCA",
-        mail: "amrithaml1998@cet.ac.in",
+        img: "/people/reps/Sera_cs_s6.jpg",
+        title: "Sera Susan Koshy", 
+        subtitle: "B.Tech, Computer Science Engineering",
+        
     },
     {
-        img: "/people/reps/jobin.jpg",
-        title: "Jobin J",
-        subtitle: "MCA",
-        mail: "jobinjofficial@gmail.com",
-    },
-
-    {
-        img: "/people/reps/ajmi.jpg",
-        title: "Ajmi Midhlaj",
+        img: "/people/reps/navneeth_mech_pg.jpg",
+        title: "Navneeth S Kumar", 
         subtitle: "M.Tech, Mechanical Engineering",
-        mail: "ajmimidhlaj898@gmail.com",
+        
     },
     {
-        img: "/people/reps/rafkhana.jpg",
-        title: "Rafkhana N",
-        subtitle: "M.Tech, Electronics and Communication Engineering",
-        mail: "rafkhanan@gmail.com",
-    },
-    {
-        img: "/people/reps/malik.jpg",
-        title: "Malik Ibnu Easa",
-        subtitle: "M.Tech, Electronics and Communication Engineering",
-        mail: "malikibnueasa@gmail.com",
-    },
-    {
-        img: "/people/reps/bhadra.jpg",
-        title: "Bhadra Priya S S",
-        subtitle: "M.Tech, Electronics and Communication Engineering",
-        mail: "bhadrapriyass@gmail.com",
-    },
-    {
-        img: "/people/reps/athena.jpg",
-        title: "Athena George",
-        subtitle: "M.Tech, Electronics and Communication Engineering",
-        mail: "athenageorge97@gmail.com",
-    },
-    {
-        img: "/people/reps/lavina.jpg",
-        title: "Lavina S Vijay",
-        subtitle: "M.Tech, Electrical and Electronics Engineering",
-        mail: "lavinavijay@gmail.com",
-    },
-    {
-        img: "/people/reps/sreelakshmi.jpg",
-        title: "Sreelakshmi B G",
+        img: "/people/reps/athira_mtech_env.jpg",
+        title: "Athira S",
         subtitle: "M.Tech, Civil Engineering",
-        mail: "bg.sree1@gmail.com",
     },
+    {
+        img: "/people/reps/Anandakrishnan_m2raaec.jpg",
+        title: "Anadhakrishnan R",
+        subtitle: "M.Tech, Electronics and Communication ",
+        
+    },
+    
+    {
+        img: "/people/reps/adhil_s2_mca.jpg",
+        title: "Adhil Ameen E T",
+        subtitle: "MCA",
+        
+    },
+    
 ];
