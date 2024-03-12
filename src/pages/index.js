@@ -38,7 +38,7 @@ export default function Home() {
                                     </Link>
                                 </div>
                                 <div className="my-2 mx-3 mx-md-0 d-flex align-items-center">
-                                    <a href={`CET @ Glance.pdf`} download className="download learnLink">
+                                    <a href={`Brochure.pdf`} download className="download learnLink">
                                         Download Brochure
                                     </a>
                                 </div>

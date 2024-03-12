@@ -36,7 +36,7 @@ export default function Layout({ children, page }) {
             {children}
             <div className="brochure-info d-md-flex text-md-start">
                 <div>To know more about the college and placement details, please check out our brochure</div>
-                <a href={`CET @ Glance.pdf`} download className="download">
+                <a href={`Brochure.pdf`} download className="download">
                     <img src={download} alt="download" />
                     <span>Download Brochure</span>
                 </a>
