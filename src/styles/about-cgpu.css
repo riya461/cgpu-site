@@ -260,7 +260,7 @@
 }
 
 @media screen and (max-width: 1192px) {
-    .ali {
+  .ali {
     display: flex;
     flex-direction: column;
     justify-content: center;
