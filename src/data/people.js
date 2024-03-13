@@ -59,7 +59,7 @@ export const reps = [
         
     },
     {
-        img: "/people/reps/surya.png",
+        img: "/people/reps/surya.jpg",
         title: "Suryagayatri Thangalazhi",
         subtitle: "B.Tech, Electronics and Communication",
        
