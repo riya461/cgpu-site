@@ -47,17 +47,29 @@ export const reps = [
         
     },
     {
+        img: "/people/reps/nandana_s.jpg",
+        title: "Vishnu Hari H G",
+        subtitle: "B.Tech, Civil Engineering",
+        
+    },
+    {
         img: "/people/reps/edwin_ie_s6.jpg",
         title: "Edwin Emmanuel Roy", 
         subtitle: "B.Tech, Industrial Engineering",
         
     },
     {
+        img: "/people/reps/suryagayathri.jpg",
+        title: "Suryagayatri Thangalazhi",
+        subtitle: "B.Tech, Electronics and Communication",
+       
+    },
+    {
         img: "/people/reps/karthik_ae_s6.jpg",
         title: "Karthik Ramesh",
         subtitle: "B.Tech, Applied Electronics and Instrumentation",
        
-    },
+    },    
     {
         img: "/people/reps/nikitha_mech_s6.jpg",
         title: "Nikitha Murali P",
@@ -89,6 +101,12 @@ export const reps = [
         
     },
     {
+        img: "/people/reps/mithun.jpg",
+        title: "Mithun Asok", 
+        subtitle: "M.Tech, Mechanical Engineering",
+        
+    },
+    {
         img: "/people/reps/athira_mtech_env.jpg",
         title: "Athira S",
         subtitle: "M.Tech, Civil Engineering",
@@ -98,8 +116,7 @@ export const reps = [
         title: "Anadhakrishnan R",
         subtitle: "M.Tech, Electronics and Communication ",
         
-    },
-    
+    },    
     {
         img: "/people/reps/adhil_s2_mca.jpg",
         title: "Adhil Ameen E T",
