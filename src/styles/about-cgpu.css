@@ -243,6 +243,7 @@
   justify-content: center;
   align-items: center;
   width: 100%;
+  flex-wrap: wrap;
 }
 
 .padd-right {
@@ -259,16 +260,6 @@
   margin-top: 2rem;
 }
 
-@media screen and (max-width: 1192px) {
-  .ali {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: nowrap;
-  }
-}
-
 .more-btn {
   background: none;
   border: none;
@@ -281,4 +272,11 @@
 
 .more-btn:hover {
   color: #0a58ca;
+}
+
+@media screen and (max-width:1124px) and (min-width:838px) {
+  .faculty{
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+  }  
 }

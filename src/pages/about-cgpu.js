@@ -78,7 +78,7 @@ export default function AboutCGPU() {
             </div>
             <div className="box">
               <h4 className="blue mt-4 mb-2">Associated Faculty</h4>
-              <div className="cards-container">
+              <div className="cards-container faculty">
                 {faculty.map((item, key) => {
                   return (
                     <div key={key} className="card-item">
