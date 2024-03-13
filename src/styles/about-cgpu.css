@@ -260,15 +260,7 @@
 }
 
 @media screen and (max-width: 1192px) {
-  .padd-right {
-    padding-right: 0;
-  }
-
-  .ali-left {
-    padding-left: 1rem;
-  }
-
-  .ali {
+    .ali {
     display: flex;
     flex-direction: column;
     justify-content: center;
