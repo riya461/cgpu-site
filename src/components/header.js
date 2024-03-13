@@ -85,11 +85,13 @@ export default function Header({ page }) {
                             Gallery
                         </button>
                         <ul className="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                            <Link to="/programs" className={`${page === "programs" ? "active" : ""}`}>
-                                Talks and Programs
-                            </Link>
+                            
                             <Link to="/gallery" className={`${page === "gallery" ? "active" : ""}`}>
-                                Facilities
+                                Campus
+                            </Link>
+                         
+                            <Link to="/programs" className={`${page === "programs" ? "active" : ""}`}>
+                                Programs
                             </Link>
                         </ul>
                     </span>
