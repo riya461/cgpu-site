@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "gatsby";
 import Layout from "../components/layout";
 import "../styles/recruiters.css";
 import { recruiters } from "../data/recruiters";
@@ -33,6 +34,7 @@ export default function Recruiters() {
                                 <div key={key} className="tile-item">
                                     <img src={item.logo} alt={item.company} className="tile-logo"></img>
                                     <div className="tile-title">{item.company}</div>
+                                   
                                 </div>
                             );
                         })}

@@ -4,7 +4,7 @@ export const placements = [
     
     
     {
-        year: 2022,
+        year: 2023,
         data: [
             { branch: "Computer Science and Engineering",  offers: 126, ug:80, pg:46 },
             { branch: "Electronics and Communication Engineering", offers: 113, ug:127, pg:50 },
@@ -16,7 +16,7 @@ export const placements = [
         ],
     },
     {
-        year: 2021,
+        year: 2022,
         data: [
             { branch: "Computer Science and Engineering", offers: 165, ug:94, pg:71 },
             { branch: "Electronics and Communication Engineering", offers: 156, ug: 136, pg:75 },
@@ -28,7 +28,7 @@ export const placements = [
         ],
     },
     {
-        year: 2020,
+        year: 2021,
         data: [
             { branch: "Computer Science and Engineering", offers: 138, ug: 113, pg:25},
             { branch: "Electronics and Communication Engineering", offers: 127, ug:164, pg:47 },
@@ -40,7 +40,7 @@ export const placements = [
         ],
     },
     {
-        year: 2019,
+        year: 2020,
         data: [
             { branch: "Computer Science and Engineering", offers: 136, ug:111, pg:25 },
             { branch: "Electronics and Communication Engineering", offers: 132 , ug: 162, pg:49},
