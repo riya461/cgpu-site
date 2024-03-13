@@ -48,7 +48,7 @@ export const reps = [
     },
     {
         img: "/people/reps/nandana_s.jpg",
-        title: "Vishnu Hari H G",
+        title: "Nandana S",
         subtitle: "B.Tech, Civil Engineering",
         
     },
@@ -59,7 +59,7 @@ export const reps = [
         
     },
     {
-        img: "/people/reps/suryagayathri.jpg",
+        img: "/people/reps/surya.jpg",
         title: "Suryagayatri Thangalazhi",
         subtitle: "B.Tech, Electronics and Communication",
        
