@@ -72,12 +72,35 @@ export default function Header({ page }) {
                     >
                         Recruiters
                     </Link>
-                    <Link
+                    <span className="dropdown d-flex d-lg-inline">
+                        <button
+                            className={`btn dropdown-toggle ps-0 pe-5 px-lg-3 ${
+                                page === "programs" ? "active" : page === "gallery" ? "active" : ""
+                            }`}
+                            type="button"
+                            id="dropdownMenuButton1"
+                            data-bs-toggle="dropdown"
+                            aria-expanded="false"
+                        >
+                            Gallery
+                        </button>
+                        <ul className="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                            
+                            <Link to="/gallery" className={`${page === "gallery" ? "active" : ""}`}>
+                                Campus
+                            </Link>
+                         
+                            <Link to="/programs" className={`${page === "programs" ? "active" : ""}`}>
+                                Programs
+                            </Link>
+                        </ul>
+                    </span>
+                    {/* <Link
                         to="/gallery"
                         className={`d-flex d-lg-inline ps-0 pe-5 px-lg-3 ${page === "gallery" ? "active" : ""}`}
                     >
                         Gallery
-                    </Link>
+                    </Link> */}
                     <Link
                         to="/contact"
                         className={`d-flex d-lg-inline ps-0 pe-5 px-lg-3 ${page === "contact" ? "active" : ""}`}
