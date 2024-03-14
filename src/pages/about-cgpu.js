@@ -7,7 +7,8 @@ import aboutcgpu from "../images/about-cgpu.jpg";
 
 export default function AboutCGPU() {
   const [more, setMore] = useState(0);
-  const repsToggle = more ? reps : reps.slice(0, 8);
+  // const repsToggle = more ? reps : reps.slice(0, 8);
+  const repsToggle = reps;
   return (
     <Layout page="cgpu">
       <div className="main-container mb-4 mb-md-0">
@@ -128,12 +129,12 @@ export default function AboutCGPU() {
                 })}
               </div>
             </div>
-            <button
+            {/* <button
               className={`more-btn${more ? " d-none" : ""}`}
               onClick={() => setMore(!more)}
             >
               Show more
-            </button>
+            </button> */}
           </div>
         </div>
       </div>
