@@ -42,91 +42,91 @@ export const faculty = [
 ];
 export const student_cordinators = [
     {
-        img: "",
+        img: "/people/faculty/kedar.png",
         title: "Prof. Kedar Mohan",
         subtitle: "Asst. Professor",
         dept: "Mechanical Engineering",
         
     },
     {
-        img: "",
+        img: "/people/faculty/Praveen.jpg",
         title: "Prof. Praveen A",
         subtitle: "Asst. Professor",
         dept: "Mechanical Engineering",
         
     },
     {
-        img: "",
+        img: "/people/faculty/alexlouis.png",
         title: "Prof. Alex Louis",
         subtitle: "Asst. Professor",
         dept: "Mechanical Engineering (IE)",
         
     },
     {
-        img: "",
+        img: "/people/faculty/leena.png",
         title: "Prof. Leena V A",
         subtitle: "Asst. Professor",
         dept: "Computer Science",
         
     },
     {
-        img: "",
+        img: "/people/faculty/rani koshy.png",
         title: "Prof. Rani Koshy",
         subtitle: "Asst. Professor",
         dept: "Computer Science",
         
     },
     {
-        img: "",
+        img: "/people/faculty/rencymol.png",
         title: "Prof. Rencymol M. V.",
         subtitle: "Asst. Professor",
         dept: "Electronics & Comm.",
         
     },
     {
-        img: "",
+        img: "/people/faculty/jijna.png",
         title: "Prof. Jijina N",
         subtitle: "Asst. Professor",
         dept: "Electronics & Comm.",
         
     },
     {
-        img: "",
+        img: "/people/faculty/samina.png",
         title: "Prof. Samina T",
         subtitle: "Asst. Professor",
         dept: "Electrical Engineering",
         
     },
     {
-        img: "",
+        img: "/people/faculty/sreedevig.png",
         title: "Prof. Sreedevi G.",
         subtitle: "Asst. Professor",
         dept: "Electrical Engineering",
         
     },
     {
-        img: "",
+        img: "/people/faculty/aruns.png",
         title: "Dr. Arun S.",
         subtitle: "Asst. Professor",
         dept: "Civil Engineering",
         
     },
     {
-        img: "",
+        img: "/people/faculty/thushara.png",
         title: "Dr. Thushara T.",
         subtitle: "Asst. Professor",
         dept: "Civil Engineering",
         
     },
     {
-        img: "",
+        img: "/people/faculty/ashifna.png",
         title: "Prof. Ashfina T",
         subtitle: "Asso. Professor",
         dept: "AR & Planning",
         
     },
     {
-        img: "",
+        img: "/people/faculty/priyas.png",
         title: "Ms. Priya A.",
         subtitle: "Asst. Professor",
         dept: "MCA",
