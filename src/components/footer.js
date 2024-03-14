@@ -17,6 +17,9 @@ export default function Footer() {
                     </div>
                     <div className="col-6 col-sm-4 col-md-4 py-2">
                         <h6 className="pb-3">Related Links</h6>
+                        <a href="https://www.dtekerala.gov.in/" target="_blank" rel="noopener noreferrer">
+                            Directorate of Technical Education
+                        </a>
                         <a href="https://ktu.edu.in/" target="_blank" rel="noopener noreferrer">
                             Kerala Technological University
                         </a>
