@@ -13,6 +13,9 @@ export const placements = [
             { branch: "Mechanical Engineering", offers: 155, ug: 177, pg:38 },
             // { branch: "Industrial Engineering", offers: 60 },
             { branch: "Civil Engineering", offers: 123, ug:88, pg:35 },
+            { branch: "Master of Computer Applications", offers: "-", ug:"-", pg:48 },
+            { branch: "Master of Business Administration", offers: "-", ug:"-", pg:46 },
+            { branch: "Architecture", offers: "-", ug:9, pg:"-" }
         ],
     },
     {
@@ -25,6 +28,9 @@ export const placements = [
             { branch: "Mechanical Engineering", offers: 158, ug:179, pg:45 },
             // { branch: "Industrial Engineering", offers: 66 },
             { branch: "Civil Engineering", offers: 77 , ug:57, pg:20},
+            { branch: "Master of Computer Applications", offers: "-", ug:"-", pg:136 },
+            { branch: "Master of Business Administration", offers: "-", ug:"-", pg:64 },
+            { branch: "Architecture", offers: "-", ug:1, pg:"-" }
         ],
     },
     {
@@ -37,6 +43,9 @@ export const placements = [
             { branch: "Mechanical Engineering", offers: 108, ug:143, pg:15 },
             // { branch: "Industrial Engineering", offers: 50 },
             { branch: "Civil Engineering", offers: 46, ug: 35, pg:11},
+            { branch: "Master of Computer Applications", offers: "-", ug:"-", pg:45 },
+            { branch: "Master of Business Administration", offers: "-", ug:"-", pg:74 },
+            { branch: "Architecture", offers: "-", ug:2, pg:"-" }
         ],
     },
     {
@@ -49,6 +58,9 @@ export const placements = [
             { branch: "Mechanical Engineering", offers: 149, ug: 198, pg:23},
             // { branch: "Industrial Engineering", offers: 72 },
             { branch: "Civil Engineering", offers: 45, ug:42, pg:3 },
+            { branch: "Master of Computer Applications", offers: "-", ug:"-", pg:45 },
+            { branch: "Master of Business Administration", offers: "-", ug:"-", pg:74 },
+            { branch: "Architecture", offers: "-", ug:2, pg:"-" }
         ],
     },
     // {
