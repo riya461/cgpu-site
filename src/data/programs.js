@@ -1,34 +1,17 @@
 export const programs = [
-    {
-        src: "/programs/p1.jpg",
-        width: 4,
-        height: 3,
-    },
+
     {
         src: "/programs/p2.jpg",
         width: 4,
         height: 3,
     },
-    {
-        src: "/programs/p3.jpg",
-        width: 4,
-        height: 3,
-    },
+    
     {
         src: "/programs/p4.jpg",
         width: 4,
         height: 3,
     },
-    {
-        src: "/programs/p5.jpg",
-        width: 4,
-        height: 3,
-    },
-    {
-        src: "/programs/p6.jpg",
-        width: 4,
-        height: 3,
-    },
+    
     {
         src: "/programs/p7.jpg",
         width: 4,
@@ -54,16 +37,7 @@ export const programs = [
         width: 4,
         height: 3,
     },
-    {
-        src: "/programs/p12.jpg",
-        width: 4,
-        height: 3,
-    },
-    {
-        src: "/programs/p13.jpg",
-        width: 4,
-        height: 3,
-    },
+
     {
         src: "/programs/p14.jpg",
         width: 4,
@@ -84,11 +58,7 @@ export const programs = [
         width: 4,
         height: 3,
     },
-    {
-        src: "/programs/IMG_20230426_164112.jpg",
-        width: 4,
-        height: 3,
-    },
+    
     {
         src: "/programs/IMG_20230426_164539.jpg",
         width: 4,
@@ -96,16 +66,6 @@ export const programs = [
     },
     {
         src: "/programs/IMG-20230317-WA0014.jpg",
-        width: 4,
-        height: 3,
-    },
-    {
-        src: "/programs/IMG-20230317-WA0015.jpg",
-        width: 4,
-        height: 3,
-    },
-    {
-        src: "/programs/IMG-20230719-WA0020.jpg",
         width: 4,
         height: 3,
     },
