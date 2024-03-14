@@ -49,12 +49,16 @@ export default function Home() {
                 <div className="bluebox mt-4 mt-md-5 mb-5 px-xl-3">
                     Over the last 5 years, we have assisted
                     <b>
-                        <span className="bigno"> 3000+</span> students
+                        <span className="bigno"> 1500+</span> students
                     </b>{" "}
                     in being placed and acquiring internships at
                     <b>
-                        <span className="bigno"> 150+</span> companies{" "}
+                        <span className="bigno"> 200+</span> companies{" "}
                     </b>
+                    <b>
+                        <span className="bigno"> 33 LPA</span> highest package{" "}
+                    </b>
+                    
                 </div>
                 <VisionMission />
             </div>
