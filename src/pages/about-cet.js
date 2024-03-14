@@ -30,10 +30,7 @@ export default function AboutCET() {
                             Varma, College of Engineering Trivandrum is the first engineering college in Kerala.
                             <br />
                             <br />
-                            Ranked at <span className="textHighlights">95</span> in engineering and{" "}
-                            <span className="textHighlights">11</span> in architecture by{" "}
-                            <span className="textHighlights">NIRF 2021</span>, CET always ranks within top 100
-                            engineering colleges of India every year. With such an eminence in the academic and
+                            CET is one among 3 colleges from Kerala in NIRF ranking. With such an eminence in the academic and
                             curricular activities, the college is the most sought after engineering college by the
                             applicants of engineering degree programmes in the state.
                             <br />
