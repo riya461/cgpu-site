@@ -83,6 +83,12 @@ export const reps = [
         
     },
     {
+        img: "/people/reps/avinash_s6_eee.jpg",
+        title: "Avinash S G",
+        subtitle: "B.Tech, Electrical and Electronics Engineering",
+        
+    },
+    {
         img: "/people/reps/alanaji_s6_cse.jpg",
         title: "Alan Aji",
         subtitle: "B.Tech, Computer Science Engineering",
