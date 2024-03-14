@@ -140,7 +140,7 @@ export const reps24 = [
     {
         img:"/people/reps24/Drisiya.jpg",
         title:"Drisiya J",
-        subtitle:"B.Tech, Civil Engineering"
+        subtitle:"M.Tech, Civil Engineering"
     },
     {
         img:"/people/reps24/HARISANKAR T.jpg",
