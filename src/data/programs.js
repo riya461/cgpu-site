@@ -27,11 +27,7 @@ export const programs = [
         width: 4,
         height: 3,
     },
-    {
-        src: "/programs/p10.jpg",
-        width: 4,
-        height: 3,
-    },
+    
     {
         src: "/programs/p11.jpg",
         width: 4,
@@ -74,11 +70,7 @@ export const programs = [
         width: 4,
         height: 3,
     },
-    {
-        src: "/programs/IMG20230424160707.jpg",
-        width: 4,
-        height: 3,
-    },
+   
     {
         src: "/programs/Reps 2023 farewell.jpg",
         width: 4,
