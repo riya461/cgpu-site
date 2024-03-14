@@ -20,8 +20,8 @@ export const faculty = [
    
     {
         img: "/people/faculty/Praveen.jpg",
-        title: "Dr. Praveen A",
-        subtitle: "Assoc. Professor",
+        title: "Prof. Praveen A",
+        subtitle: "Asst. Professor",
         dept: "Mechanical Engineering",
         mail: "praveenarjun@cet.ac.in",
     },

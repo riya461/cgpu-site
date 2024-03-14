@@ -52,7 +52,7 @@ export default function AboutCGPU() {
           <div className="page-head">People Behind CGPU</div>
           <div className=" ali">
             <div className="box">
-              <h4 className="blue mt-4 mb-2">Coordinator</h4>
+              <h4 className="blue mt-4 mb-2">Coordinators</h4>
               <div className="cards-container">
                 {head.map((item, key) => {
                   return (
@@ -107,7 +107,7 @@ export default function AboutCGPU() {
               </div>
             </div>
             <div className="box">
-              <h4 className="blue mt-4 mb-2">Faculty Coordinators</h4>
+              <h4 className="blue mt-4 mb-2">Department Coordinators</h4>
               <div className="cards-container ">
                 {student_cordinators.map((item, key) => {
                   return (
