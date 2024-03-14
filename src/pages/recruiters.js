@@ -69,9 +69,7 @@ export default function Recruiters() {
                     })}
                 </div> */}
             </div>
-            <div className="flex align-end">
-                And more...
-            </div>
+
         </Layout>
     );
 }
