@@ -1,12 +1,12 @@
-import React, { useState } from "react";
-import { head, faculty, reps } from "../data/people";
+import React from "react";
+import { head, faculty, reps,student_cordinators } from "../data/people";
 import Layout from "../components/layout";
 import "../styles/about-cgpu.css";
 import AboutSVG from "../components/about-svg";
 import aboutcgpu from "../images/about-cgpu.jpg";
 
 export default function AboutCGPU() {
-  const [more, setMore] = useState(0);
+  
   // const repsToggle = more ? reps : reps.slice(0, 8);
   const repsToggle = reps;
   return (
@@ -78,9 +78,38 @@ export default function AboutCGPU() {
               </div>
             </div>
             <div className="box">
-              <h4 className="blue mt-4 mb-2">Associated Faculty</h4>
+              <h4 className="blue mt-4 mb-2">Associate Coordinators</h4>
               <div className="cards-container faculty">
                 {faculty.map((item, key) => {
+                  return (
+                    <div key={key} className="card-item">
+                      <div />
+                      <img
+                        src={item.img}
+                        className="card-img"
+                        alt={item.title}
+                      />
+                      <div className="card-blank" />
+                      <div className="card-text">
+                        <div className="card-title">{item.title}</div>
+                        <div className="card-subtitle">{item.subtitle}</div>
+                        <div className="card-subtitle">{item.dept}</div>
+                        <a
+                          href={`mailto:${item.mail}`}
+                          className="card-mail text-truncate"
+                        >
+                          {item.mail}
+                        </a>
+                      </div>
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+            <div className="box">
+              <h4 className="blue mt-4 mb-2">Student Coordinators</h4>
+              <div className="cards-container ">
+                {student_cordinators.map((item, key) => {
                   return (
                     <div key={key} className="card-item">
                       <div />
@@ -131,7 +160,7 @@ export default function AboutCGPU() {
             </div>
             {/* <button
               className={`more-btn${more ? " d-none" : ""}`}
-              onClick={() => setMore(!more)}
+              onClick={() => (!more)}
             >
               Show more
             </button> */}

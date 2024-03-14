@@ -22,8 +22,8 @@ export default function Contact() {
                             </p>
                             <p>
                                 Phone:{" "}
-                                <a href="tel:04712595152" className="phone">
-                                    0471 251-5682
+                                <a href="tel:04712515682" className="phone">
+                                0471-2515682
                                 </a>
                                 <br />
                                 Email:{" "}

@@ -5,9 +5,6 @@ export const head = [
         subtitle: "Professor, Mechanical Engineering",
         mail: "placement@cet.ac.in",
     },
-];
-
-export const faculty = [
     {
         img: "/people/faculty/jayasree.jpg",
         title: "Dr. Jayasree P K",
@@ -15,6 +12,10 @@ export const faculty = [
         dept: "Civil Engineering",
         mail: "jayasreepk@cet.ac.in",
     },
+];
+
+export const faculty = [
+   
     {
         img: "/people/faculty/Praveen.jpg",
         title: "Dr. Praveen A",
@@ -32,12 +33,107 @@ export const faculty = [
     {
         img: "/people/faculty/linu.jpg",
         title: "Dr. Linu Shine",
-        subtitle: "Asst. Professor",
+        subtitle: "Assoc. Professor",
         dept: "Electronics & Comm.",
         mail: "linushine@cet.ac.in",
     },
 ];
+export const student_cordinators = [
+    {
+        img: "",
+        title: "Prof. Kedar Mohan",
+        subtitle: "Asst. Professor",
+        dept: "Mechanical Engineering",
+        
+    },
+    {
+        img: "",
+        title: "Prof. Praveen A",
+        subtitle: "Asst. Professor",
+        dept: "Mechanical Engineering",
+        
+    },
+    {
+        img: "",
+        title: "Prof. Alex Louis",
+        subtitle: "Asst. Professor",
+        dept: "Mechanical Engineering (IE)",
+        
+    },
+    {
+        img: "",
+        title: "Prof. Leena V A",
+        subtitle: "Asst. Professor",
+        dept: "Computer Science",
+        
+    },
+    {
+        img: "",
+        title: "Prof. Rani Koshy",
+        subtitle: "Asst. Professor",
+        dept: "Computer Science",
+        
+    },
+    {
+        img: "",
+        title: "Prof. Rencymol M. V.",
+        subtitle: "Asst. Professor",
+        dept: "Electronics & Comm.",
+        
+    },
+    {
+        img: "",
+        title: "Prof. Jijina N",
+        subtitle: "Asst. Professor",
+        dept: "Electronics & Comm.",
+        
+    },
+    {
+        img: "",
+        title: "Prof. Samina T",
+        subtitle: "Asst. Professor",
+        dept: "Electrical Engineering",
+        
+    },
+    {
+        img: "",
+        title: "Prof. Sreedevi G.",
+        subtitle: "Asst. Professor",
+        dept: "Electrical Engineering",
+        
+    },
+    {
+        img: "",
+        title: "Dr. Arun S.",
+        subtitle: "Asst. Professor",
+        dept: "Civil Engineering",
+        
+    },
+    {
+        img: "",
+        title: "Dr. Thushara T.",
+        subtitle: "Asst. Professor",
+        dept: "Civil Engineering",
+        
+    },
+    {
+        img: "",
+        title: "Prof. Ashfina T",
+        subtitle: "Asso. Professor",
+        dept: "AR & Planning",
+        
+    },
+    {
+        img: "",
+        title: "Ms. Priya A.",
+        subtitle: "Asst. Professor",
+        dept: "MCA",
+        
+    },
+    
+    
 
+]
 export const reps = [
     
     {
