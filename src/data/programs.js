@@ -1,5 +1,75 @@
 export const programs = [
     {
+        src: "/programs/p1.jpg",
+        width: 4,
+        height: 3,
+    },
+    {
+        src: "/programs/p2.jpg",
+        width: 4,
+        height: 3,
+    },
+    {
+        src: "/programs/p3.jpg",
+        width: 4,
+        height: 3,
+    },
+    {
+        src: "/programs/p4.jpg",
+        width: 4,
+        height: 3,
+    },
+    {
+        src: "/programs/p5.jpg",
+        width: 4,
+        height: 3,
+    },
+    {
+        src: "/programs/p6.jpg",
+        width: 4,
+        height: 3,
+    },
+    {
+        src: "/programs/p7.jpg",
+        width: 4,
+        height: 3,
+    },
+    {
+        src: "/programs/p8.jpg",
+        width: 4,
+        height: 3,
+    },
+    {
+        src: "/programs/p9.jpg",
+        width: 4,
+        height: 3,
+    },
+    {
+        src: "/programs/p10.jpg",
+        width: 4,
+        height: 3,
+    },
+    {
+        src: "/programs/p11.jpg",
+        width: 4,
+        height: 3,
+    },
+    {
+        src: "/programs/p12.jpg",
+        width: 4,
+        height: 3,
+    },
+    {
+        src: "/programs/p13.jpg",
+        width: 4,
+        height: 3,
+    },
+    {
+        src: "/programs/p14.jpg",
+        width: 4,
+        height: 3,
+    },
+    {
         src: "/programs/20220711_110024.jpg",
         width: 4,
         height: 3,
