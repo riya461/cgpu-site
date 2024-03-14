@@ -48,13 +48,7 @@ export const student_cordinators = [
         dept: "Mechanical Engineering",
         
     },
-    {
-        img: "/people/faculty/Praveen.jpg",
-        title: "Prof. Praveen A",
-        subtitle: "Asst. Professor",
-        dept: "Mechanical Engineering",
-        
-    },
+    
     {
         img: "/people/faculty/alexlouis.png",
         title: "Prof. Alex Louis",
@@ -70,7 +64,7 @@ export const student_cordinators = [
         
     },
     {
-        img: "/people/faculty/rani koshy.png",
+        img: "/people/faculty/rany koshy.png",
         title: "Prof. Rani Koshy",
         subtitle: "Asst. Professor",
         dept: "Computer Science",
