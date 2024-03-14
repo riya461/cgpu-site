@@ -274,9 +274,9 @@
   color: #0a58ca;
 }
 
-@media screen and (max-width:1124px) and (min-width:838px) {
+/* @media screen and (max-width:1124px) and (min-width:838px) {
   .faculty{
     display:grid;
     grid-template-columns: repeat(2, 1fr);
   }  
-}
+} */

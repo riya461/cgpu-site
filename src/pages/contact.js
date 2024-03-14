@@ -8,7 +8,7 @@ export default function Contact() {
             <div className="main-container mb-4 mb-md-0">
                 <div className="align-self-start page-head">Contact Us</div>
                 <div className="row w-100 py-2">
-                    <div className="col-12 col-md-6 px-0 py-4">
+                    <div className="address-box col-12 col-md-6 px-0 py-4">
                         <div className="address text-wrap me-md-4 me-lg-5 p-4">
                             <h4>Address</h4>
                             <p className="p-main">
