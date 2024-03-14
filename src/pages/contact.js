@@ -12,6 +12,10 @@ export default function Contact() {
                         <div className="address text-wrap me-md-4 me-lg-5 p-4">
                             <h4>Address</h4>
                             <p className="p-main">
+                                Dr. K. Sunil Kumar
+                                <br />
+                                Training and Placement Officer
+                                <br />
                                 Career Guidance and Placement Unit (CGPU),
                                 <br />
                                 College of Engineering Trivandrum,
@@ -33,34 +37,7 @@ export default function Contact() {
                             </p>
                         </div>
                     </div>
-                    <div className="col-12 col-md-6 px-0 py-4">
-                        <div className="contac ms-md-4 ms-lg-5 p-4">
-                            <h4>Contact Person</h4>
-
-                            <p className="p-main">
-                                {" "}
-                                Dr. K. Sunil Kumar
-                                <br />
-                                Training and Placement Officer
-                                <br />
-                                College of Engineering Trivandrum,
-                                <br />
-                                Thiruvananthapuram, Kerala 695016
-                                <br />
-                            </p>
-                            <p>
-                                Mobile:{" "}
-                                <a href="tel:+919946844277" className="phone">
-                                    +91 994-684-4277
-                                </a>
-                                <br />
-                                Email:{" "}
-                                <a href="mailto:ksk_sunil@cet.ac.in" className="phone">
-                                    ksk_sunil@cet.ac.in
-                                </a>
-                            </p>
-                        </div>
-                    </div>
+                    
                 </div>
                 <div className="reach">Reach our institution</div>
                 <div className="map">
