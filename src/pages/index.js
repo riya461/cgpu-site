@@ -55,6 +55,7 @@ export default function Home() {
                     <b>
                         <span className="bigno"> 200+</span> companies{" "}
                     </b>
+                    <br />
                     <b>
                         <span className="bigno"> 33 LPA</span> highest package{" "}
                     </b>
