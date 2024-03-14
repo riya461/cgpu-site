@@ -20,8 +20,8 @@ export const faculty = [
    
     {
         img: "/people/faculty/Praveen.jpg",
-        title: "Dr. Praveen A",
-        subtitle: "Assoc. Professor",
+        title: "Prof. Praveen A",
+        subtitle: "Asst. Professor",
         dept: "Mechanical Engineering",
         mail: "praveenarjun@cet.ac.in",
     },
@@ -42,91 +42,85 @@ export const faculty = [
 ];
 export const student_cordinators = [
     {
-        img: "",
+        img: "/people/faculty/kedar.png",
         title: "Prof. Kedar Mohan",
         subtitle: "Asst. Professor",
         dept: "Mechanical Engineering",
         
     },
+    
     {
-        img: "",
-        title: "Prof. Praveen A",
-        subtitle: "Asst. Professor",
-        dept: "Mechanical Engineering",
-        
-    },
-    {
-        img: "",
+        img: "/people/faculty/alexlouis.png",
         title: "Prof. Alex Louis",
         subtitle: "Asst. Professor",
         dept: "Mechanical Engineering (IE)",
         
     },
     {
-        img: "",
+        img: "/people/faculty/leena.png",
         title: "Prof. Leena V A",
         subtitle: "Asst. Professor",
         dept: "Computer Science",
         
     },
     {
-        img: "",
+        img: "/people/faculty/rany koshy.png",
         title: "Prof. Rani Koshy",
         subtitle: "Asst. Professor",
         dept: "Computer Science",
         
     },
     {
-        img: "",
+        img: "/people/faculty/rencymol.png",
         title: "Prof. Rencymol M. V.",
         subtitle: "Asst. Professor",
         dept: "Electronics & Comm.",
         
     },
     {
-        img: "",
+        img: "/people/faculty/jijna.png",
         title: "Prof. Jijina N",
         subtitle: "Asst. Professor",
         dept: "Electronics & Comm.",
         
     },
     {
-        img: "",
+        img: "/people/faculty/samina.png",
         title: "Prof. Samina T",
         subtitle: "Asst. Professor",
         dept: "Electrical Engineering",
         
     },
     {
-        img: "",
+        img: "/people/faculty/sreedevig.png",
         title: "Prof. Sreedevi G.",
         subtitle: "Asst. Professor",
         dept: "Electrical Engineering",
         
     },
     {
-        img: "",
+        img: "/people/faculty/aruns.png",
         title: "Dr. Arun S.",
         subtitle: "Asst. Professor",
         dept: "Civil Engineering",
         
     },
     {
-        img: "",
+        img: "/people/faculty/thushara.png",
         title: "Dr. Thushara T.",
         subtitle: "Asst. Professor",
         dept: "Civil Engineering",
         
     },
     {
-        img: "",
+        img: "/people/faculty/ashifna.png",
         title: "Prof. Ashfina T",
         subtitle: "Asso. Professor",
         dept: "AR & Planning",
         
     },
     {
-        img: "",
+        img: "/people/faculty/priyas.png",
         title: "Ms. Priya A.",
         subtitle: "Asst. Professor",
         dept: "MCA",
@@ -136,6 +130,55 @@ export const student_cordinators = [
     
 
 ]
+
+export const reps24 = [
+    {
+        img:"/people/reps24/Adarsh.jpg",
+        title:"Adarsh George Murickan",
+        subtitle:"B.Tech, Mechanical Engineering"
+    },
+    {
+        img:"/people/reps24/Drisiya.jpg",
+        title:"Drisiya J",
+        subtitle:"B.Tech, Civil Engineering"
+    },
+    {
+        img:"/people/reps24/HARISANKAR T.jpg",
+        title:"Harishankar T",
+        subtitle:"B.Tech, Mechanical Engineering"
+    },
+    {
+        img:"/people/reps24/Joe.jpg",
+        title:"Joe Paul Thekkanath",
+        subtitle:"B.Tech, Computer Science Engineering"
+    },
+    {
+        img:"/people/reps24/Neha.jpg",
+        title:"Neha",
+        subtitle:"B.Arch"
+    },
+    {
+        img:"/people/reps24/Parthiv.jpg",
+        title:"Parthiv Krishna",
+        subtitle:"B.Tech, Electrical and Electronics Engineering"
+    },
+    {
+        img:"/people/reps24/Pranav.jpg",
+        title:"Pranav P R",
+        subtitle:"B.Tech, Electrical and Electronics Engineering"
+    },
+    {
+        img:"/people/reps24/RIJFAS KP (3).jpg",
+        title:"Rijfas A Usman K P",
+        subtitle:"MCA"
+    },
+    {
+        img:"/people/reps24/Vibhu P.jpg",
+        title:"Vibhu P",
+        subtitle:"B.Tech, Industrial Engineering"
+    },
+]
+//static\people\reps24\RIJFAS KP (3).jpg
 export const reps = [
     
     {

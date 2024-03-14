@@ -37,6 +37,10 @@ export default function Recruiters() {
                                 </div>
                             );
                         })}
+                        <div key={"more"} className="tile-item-more">
+                            <div className="tile-title">And more...</div>
+                            
+                        </div>
                     </div>
                 </div>
 
@@ -65,9 +69,7 @@ export default function Recruiters() {
                     })}
                 </div> */}
             </div>
-            <div className="flex align-end">
-                And more...
-            </div>
+
         </Layout>
     );
 }

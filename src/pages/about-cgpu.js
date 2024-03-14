@@ -1,5 +1,5 @@
 import React from "react";
-import { head, faculty, reps,student_cordinators } from "../data/people";
+import { head, faculty, reps,student_cordinators,reps24 } from "../data/people";
 import Layout from "../components/layout";
 import "../styles/about-cgpu.css";
 import AboutSVG from "../components/about-svg";
@@ -9,6 +9,7 @@ export default function AboutCGPU() {
   
   // const repsToggle = more ? reps : reps.slice(0, 8);
   const repsToggle = reps;
+  console.log(reps24);
   return (
     <Layout page="cgpu">
       <div className="main-container mb-4 mb-md-0">
@@ -52,7 +53,7 @@ export default function AboutCGPU() {
           <div className="page-head">People Behind CGPU</div>
           <div className=" ali">
             <div className="box">
-              <h4 className="blue mt-4 mb-2">Coordinator</h4>
+              <h4 className="blue mt-4 mb-2">Coordinators</h4>
               <div className="cards-container">
                 {head.map((item, key) => {
                   return (
@@ -107,7 +108,7 @@ export default function AboutCGPU() {
               </div>
             </div>
             <div className="box">
-              <h4 className="blue mt-4 mb-2">Faculty Coordinators</h4>
+              <h4 className="blue mt-4 mb-2">Department Coordinators</h4>
               <div className="cards-container ">
                 {student_cordinators.map((item, key) => {
                   return (
@@ -136,9 +137,32 @@ export default function AboutCGPU() {
               </div>
             </div>
             <div className="box">
-              <h4 className="blue mt-4 mb-2">Student Representatives</h4>
+              <h4 className="blue mt-4 mb-2">Student Representatives-25</h4>
               <div className="cards-container">
                 {repsToggle.map((item, key) => {
+                  return (
+                    <div key={key} className="card-item">
+                      <div className="card-img" />
+                      <div className="card-overlay" />
+                      <img
+                        src={item.img}
+                        className="card-img"
+                        alt={item.title}
+                      />
+                      <div className="card-blank" />
+                      <div className="card-text rep">
+                        <div className="card-title">{item.title}</div>
+                        <div className="card-subtitle">{item.subtitle}</div>
+                      </div>
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+            <div className="box">
+              <h4 className="blue mt-4 mb-2">Student Representatives-24</h4>
+              <div className="cards-container">
+                {reps24.map((item, key) => {
                   return (
                     <div key={key} className="card-item">
                       <div className="card-img" />
