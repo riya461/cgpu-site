@@ -8,7 +8,7 @@ import RecruitersMarquee from "../components/recruiters-marquee";
 import { objectives } from "../data/objectives";
 import logo from "../images/cet-logo.png";
 import cetfront from "../images/cet-front.jpg";
-import cgpufront from "../images/cgpu-front.jpg";
+import cgpufront from "../images/20240314_121552.jpg";
 import cgpuhall from "../images/cgpu-hall.jpg";
 import brocheru from "./Brochure.pdf";
 export default function Home() {
