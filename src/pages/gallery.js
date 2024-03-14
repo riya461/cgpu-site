@@ -3,7 +3,6 @@ import Layout from "../components/layout";
 import Masonry, { ResponsiveMasonry } from "react-responsive-masonry";
 import "../styles/gallery.css";
 import { gallery } from "../data/gallery";
-// import coverimage from "../images/cet-cover.png";
 
 export default function Gallery() {
     return (
@@ -26,11 +25,14 @@ export default function Gallery() {
                                                 </div>
                                             </div>
                                         </div>
+                                        
                                     </div>
                                 );
                             })}
                         </Masonry>
                     </ResponsiveMasonry>
+                    
+                  
                 </div>
             </div>
         </Layout>

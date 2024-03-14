@@ -3,6 +3,7 @@ import Footer from "./footer";
 import Header from "./header";
 import download from "../images/download.svg";
 import "../styles/layout.css";
+import brochure from "../pages/Brochure.pdf";
 
 export default function Layout({ children, page }) {
     useEffect(() => {
@@ -37,7 +38,7 @@ export default function Layout({ children, page }) {
             <div className="brochure-info d-md-flex text-md-start">
                 <br></br>
                 <div>To know more about the college and placement details, please check out our brochure</div>
-                <a href={`Brochure.pdf`} download className="download">
+                <a href={brochure} download className="download">
                     <img src={download} alt="download" />
                     <span>Download Brochure</span>
                 </a>

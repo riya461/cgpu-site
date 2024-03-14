@@ -10,7 +10,7 @@ import logo from "../images/cet-logo.png";
 import cetfront from "../images/cet-front.jpg";
 import cgpufront from "../images/cgpu-front.jpg";
 import cgpuhall from "../images/cgpu-hall.jpg";
-
+import brocheru from "./Brochure.pdf";
 export default function Home() {
     return (
         <Layout page="home">
@@ -38,7 +38,7 @@ export default function Home() {
                                     </Link>
                                 </div>
                                 <div className="my-2 mx-3 mx-md-0 d-flex align-items-center">
-                                    <a href={`Brochure.pdf`} download className="download learnLink">
+                                    <a href={brocheru} download className="download learnLink">
                                         Download Brochure
                                     </a>
                                 </div>

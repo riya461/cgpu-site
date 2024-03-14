@@ -30,13 +30,13 @@ export const gallery = [
         height: 4,
         desc: "CGPU Hall",
     },
-    {
-        src: "/gallery/gd-room.jpg",
-        width: 3,
-        height: 4,
-        desc: "GD Room",
+    // {
+    //     src: "/gallery/gd-room.jpg",
+    //     width: 3,
+    //     height: 4,
+    //     desc: "GD Room",
 
-    },
+    // },
     {
         src: "/gallery/civil-building.jpg",
         width: 3,
@@ -69,12 +69,12 @@ export const gallery = [
         height: 4,
         desc: "Civil Canteen",
     },
-    {
-        src: "/gallery/gazebo.jpg",
-        width: 3,
-        height: 4,
-        desc: "Gazebo",
-    },
+    // {
+    //     src: "/gallery/gazebo.jpg",
+    //     width: 3,
+    //     height: 4,
+    //     desc: "Gazebo",
+    // },
     {
         src: "/gallery/physical-education.jpg",
         width:4,
@@ -147,12 +147,7 @@ export const gallery = [
         height: 4,
         desc: "Department of Computer Applications",
     },
-    {
-        src: "/gallery/mech-building.jpg",
-        width: 3,
-        height: 4,
-        desc: "Department of Mechanical Engineering",
-    },
+   
     {
         src: "/gallery/pg-block.jpg",
         width: 3,
@@ -178,18 +173,18 @@ export const gallery = [
         desc: "Dhwani Stage",
     },
     {
+        src: "/gallery/mech-building.jpg",
+        width: 3,
+        height: 4,
+        desc: "Department of Mechanical Engineering",
+    },
+    {
         src: "/gallery/artswall.jpg",
         width: 3,
         height: 4,
         desc: "Art Wall",
     },
-    {
-        src: "/gallery/aerial-view.jpg",
-        width: 1,
-        height: 1,
-        desc: "Aerial View of college",
-    },
-    
+
     // {
     //     src: "/gallery/gimg11.jpg",
     //     width: 1,
@@ -221,3 +216,12 @@ export const gallery = [
     //     desc: "Civil Walkway",
     // },
 ];
+
+export const pic = [
+    {
+        src: "/gallery/aerial-view.jpg",
+        width: 1,
+        height: 1,
+        desc: "Ariel View",
+    }
+]

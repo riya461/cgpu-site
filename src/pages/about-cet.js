@@ -56,7 +56,7 @@ export default function AboutCET() {
                         </p>
                     </div>
                     <div className="col">
-                        <p className="numeric">27</p>
+                        <p className="numeric">30</p>
                         <p className="numeric-text">
                             Postgraduate <br />
                             {/* &amp; Doctoral  */}

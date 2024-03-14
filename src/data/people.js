@@ -1,17 +1,19 @@
 export const head = [
     {
-        img: "/people/faculty/sunil.jpg",
-        title: "Dr. Sunil Kumar K",
-        subtitle: "Professor, Mechanical Engineering",
-        mail: "placement@cet.ac.in",
-    },
-    {
         img: "/people/faculty/jayasree.jpg",
         title: "Dr. Jayasree P K",
         subtitle: "Professor", 
         dept: "Civil Engineering",
         mail: "jayasreepk@cet.ac.in",
     },
+    {
+        
+        img: "/people/faculty/sunil.jpg",
+        title: "Dr. Sunil Kumar K",
+        subtitle: "Professor, Mechanical Engineering",
+        mail: "placement@cet.ac.in",
+    },
+    
 ];
 
 export const faculty = [

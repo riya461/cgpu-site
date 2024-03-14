@@ -1,5 +1,5 @@
 .coverimg {
-    background-image: linear-gradient(77.77deg, #1f79e0ef 0%, #1f79e03f 100%), url("../images/cet-cover.jpg");
+    background-image: linear-gradient(77.77deg, #1f79e0ef 0%, #1f79e03f 100%), url("../images/aerial-view.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center 10%;
@@ -11,7 +11,7 @@
 }
 
 .gal-container {
-    width: 102.5%;
+    width: 100%;
 }
 
 .gal-space {
