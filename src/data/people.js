@@ -70,7 +70,7 @@ export const student_cordinators = [
         
     },
     {
-        img: "/people/faculty/rani koshy.png",
+        img: "/people/faculty/rany koshy.png",
         title: "Prof. Rani Koshy",
         subtitle: "Asst. Professor",
         dept: "Computer Science",
@@ -136,6 +136,55 @@ export const student_cordinators = [
     
 
 ]
+
+export const reps24 = [
+    {
+        img:"/people/reps24/Adarsh.jpg",
+        title:"Adarsh George Murickan",
+        subtitle:"B.Tech, Mechanical Engineering"
+    },
+    {
+        img:"/people/reps24/Drisiya.jpg",
+        title:"Drisiya J",
+        subtitle:"B.Tech, Civil Engineering"
+    },
+    {
+        img:"/people/reps24/HARISANKAR T.jpg",
+        title:"Harishankar T",
+        subtitle:"B.Tech, Mechanical Engineering"
+    },
+    {
+        img:"/people/reps24/Joe.jpg",
+        title:"Joe Paul Thekkanath",
+        subtitle:"B.Tech, Computer Science Engineering"
+    },
+    {
+        img:"/people/reps24/Neha.jpg",
+        title:"Neha",
+        subtitle:"B.Arch"
+    },
+    {
+        img:"/people/reps24/Parthiv.jpg",
+        title:"Parthiv Krishna",
+        subtitle:"B.Tech, Electrical and Electronics Engineering"
+    },
+    {
+        img:"/people/reps24/Pranav.jpg",
+        title:"Pranav P R",
+        subtitle:"B.Tech, Electrical and Electronics Engineering"
+    },
+    {
+        img:"/people/reps24/RIJFAS KP (3).jpg",
+        title:"Rijfas A Usman K P",
+        subtitle:"MCA"
+    },
+    {
+        img:"/people/reps24/Vibhu P.jpg",
+        title:"Vibhu P",
+        subtitle:"B.Tech, Industrial Engineering"
+    },
+]
+//static\people\reps24\RIJFAS KP (3).jpg
 export const reps = [
     
     {
