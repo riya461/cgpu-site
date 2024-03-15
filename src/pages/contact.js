@@ -29,6 +29,8 @@ export default function Contact() {
                                 <a href="wa.me/+919946844277" className="phone">
                                 919946844277
                                 </a>
+                                <br />
+
                                 Phone:{" "}
                                 <a href="tel:04712515682" className="phone">
                                 0471-2515682
