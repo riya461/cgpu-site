@@ -112,10 +112,10 @@ export default function AboutCET() {
                         2019
                     </text>
                     <text fill="#1f7ae0" fontWeight="600" fontSize="20" x="1110" y="195" textAnchor="end">
-                        Celebrated 80 years
+                        Celebrated 85 years
                     </text>
                     <text fill="#4F4F4F" fontWeight="400" fontSize="14" x="1110" y="218" textAnchor="end">
-                        80th anniversary of nurturing young engineering minds
+                        85th anniversary of nurturing young engineering minds
                     </text>
 
                     <circle opacity="0.3" cx="12" cy="130" r="12" fill="#2ECC71" />

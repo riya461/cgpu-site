@@ -37,7 +37,7 @@ export const recruiters = [
   {
     company: "Amadeus",
     url: "www.amadeus.com",
-    logo: "/recruiters-logo/amadeus.svg",
+    logo: "/recruiters-logo/amadeus.png",
   },
   {
     company: "Oracle",
@@ -52,12 +52,12 @@ export const recruiters = [
   {
     company: "Cognizant",
     url: "www.cognizant.com",
-    logo: "/recruiters-logo/cognizant.svg",
+    logo: "/recruiters-logo/cognizant.jpeg",
   },
   {
     company: "TCS",
     url: "www.tcs.com",
-    logo: "/recruiters-logo/tcs.svg",
+    logo: "/recruiters-logo/tcs.jpeg",
   },
   {
     company: "Tismo",
@@ -87,12 +87,12 @@ export const recruiters = [
   {
     company: "MRF",
     url: "",
-    logo: "/recruiters-logo/mrf.svg",
+    logo: "/recruiters-logo/mrf.png",
   },
   {
     company: "Accenture",
     url: "",
-    logo: "/recruiters-logo/accenture.png",
+    logo: "/recruiters-logo/accenture.svg",
   },
   {
     company: "bridgei2i",
@@ -182,12 +182,7 @@ export const recruiters = [
   {
     company: "Academor",
     url: "example.com/academor",
-    logo: "/recruiters-logo/Academor.png",
-  },
-  {
-    company: "Accenture",
-    url: "example.com/accenture",
-    logo: "/recruiters-logo/Accenture.png",
+    logo: "/recruiters-logo/academor.jpeg",
   },
   {
     company: "Acsia",
@@ -197,7 +192,7 @@ export const recruiters = [
   {
     company: "Adobe",
     url: "example.com/adobe",
-    logo: "/recruiters-logo/Adobe.png",
+    logo: "/recruiters-logo/adobe.svg",
   },
   {
     company: "AG&P",
@@ -213,11 +208,6 @@ export const recruiters = [
     company: "Alight",
     url: "example.com/alight",
     logo: "/recruiters-logo/alight.png",
-  },
-  {
-    company: "Amadeus",
-    url: "example.com/amadeus",
-    logo: "/recruiters-logo/Amadeus.png",
   },
   {
     company: "Asian Paints",
@@ -242,17 +232,17 @@ export const recruiters = [
   {
     company: "Bosch",
     url: "example.com/bosch",
-    logo: "/recruiters-logo/Bosch.png",
+    logo: "/recruiters-logo/BOSCH.jpg",
   },
   {
     company: "Capgemini",
     url: "example.com/capgemini",
-    logo: "/recruiters-logo/Capgemini.png",
+    logo: "/recruiters-logo/Capgemini.svg",
   },
   {
     company: "CGI",
     url: "example.com/cgi",
-    logo: "/recruiters-logo/CGI.png",
+    logo: "/recruiters-logo/cgi.png",
   },
   {
     company: "CMS",
@@ -262,13 +252,13 @@ export const recruiters = [
   {
     company: "Codeyoung",
     url: "example.com/codeyoung",
-    logo: "/recruiters-logo/Codeyoung.png",
+    logo: "/recruiters-logo/codeyoung.png",
   },
-  {
-    company: "CTS",
-    url: "example.com/cts",
-    logo: "/recruiters-logo/CTS.png",
-  },
+//   {
+//     company: "CTS",
+//     url: "example.com/cts",
+//     logo: "/recruiters-logo/CTS.png",
+//   },
   {
     company: "CynLr",
     url: "example.com/cynlr",
@@ -324,11 +314,11 @@ export const recruiters = [
     url: "example.com/ford",
     logo: "/recruiters-logo/Ford.jpeg",
   },
-  {
-    company: "Ganit",
-    url: "example.com/ganit",
-    logo: "/recruiters-logo/Ganit.png",
-  },
+//   {
+//     company: "Ganit",
+//     url: "example.com/ganit",
+//     logo: "/recruiters-logo/Ganit.png",
+//   },
   {
     company: "Gemini",
     url: "example.com/gemini",
@@ -337,7 +327,7 @@ export const recruiters = [
   {
     company: "Guidehouse",
     url: "example.com/guidehouse",
-    logo: "/recruiters-logo/Guidehouse_logo.png",
+    logo: "/recruiters-logo/Guidehouse.jpeg",
   },
   {
     company: "Havells",
@@ -354,11 +344,11 @@ export const recruiters = [
     url: "example.com/ibm",
     logo: "/recruiters-logo/IBM.svg",
   },
-  {
-    company: "IBS",
-    url: "example.com/ibs",
-    logo: "/recruiters-logo/IBS.png",
-  },
+//   {
+//     company: "IBS",
+//     url: "example.com/ibs",
+//     logo: "/recruiters-logo/IBS.png",
+//   },
   {
     company: "ICICI",
     url: "example.com/icici",
@@ -367,7 +357,7 @@ export const recruiters = [
   {
     company: "Ignitarium",
     url: "example.com/ignitarium",
-    logo: "/recruiters-logo/Ignitarium.png",
+    logo: "/recruiters-logo/Ignitarium.jpeg",
   },
   {
     company: "Incture",
@@ -427,7 +417,7 @@ export const recruiters = [
   {
     company: "LTIMindtree",
     url: "example.com/ltimindtree",
-    logo: "/recruiters-logo/LTIMindtree.jpg",
+    logo: "/recruiters-logo/LTIMindtree.png",
   },
   {
     company: "LTTS",
@@ -442,7 +432,7 @@ export const recruiters = [
   {
     company: "Microchip",
     url: "example.com/microchip",
-    logo: "/recruiters-logo/Microchip.png",
+    logo: "/recruiters-logo/Microchip.jpeg",
   },
   {
     company: "Mindteck",
@@ -482,7 +472,7 @@ export const recruiters = [
   {
     company: "Nokia",
     url: "example.com/nokia",
-    logo: "/recruiters-logo/Nokia.jpg",
+    logo: "/recruiters-logo/Nokia.png",
   },
   {
     company: "NTT Data",
@@ -508,11 +498,6 @@ export const recruiters = [
     company: "Prevalent",
     url: "example.com/prevalent",
     logo: "/recruiters-logo/prevalent.png",
-  },
-  {
-    company: "Providence",
-    url: "example.com/providence",
-    logo: "/recruiters-logo/providence.jpg",
   },
   {
     company: "PwC",

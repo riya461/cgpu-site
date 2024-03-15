@@ -39,7 +39,9 @@ export default function Footer() {
                         <div>
                             <span>Phone: </span>
                             
-                            <span> (Office)</span>
+                            <span><a href="wa.me/+919946844277" className="phone">
+                            +91 99468 44277
+                                </a></span>
                         </div>
                         <div>
                             <span>Email: </span>

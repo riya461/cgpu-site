@@ -25,6 +25,10 @@ export default function Contact() {
                                 Thiruvananthapuram, Kerala 695016
                             </p>
                             <p>
+                                Mobile:{" "}
+                                <a href="wa.me/+919946844277" className="phone">
+                                919946844277
+                                </a>
                                 Phone:{" "}
                                 <a href="tel:04712515682" className="phone">
                                 0471-2515682
