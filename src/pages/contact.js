@@ -25,11 +25,21 @@ export default function Contact() {
                                 Thiruvananthapuram, Kerala 695016
                             </p>
                             <p>
+                                Mobile:{" "}
+                                <a href="wa.me/+919946844277" className="phone">
+                                919946844277
+                                </a>
                                 Phone:{" "}
                                 <a href="tel:04712515682" className="phone">
                                 0471-2515682
                                 </a>
                                 <br />
+                                Phone:{" "}
+                                <a href="wa.me/+91 99468 44277" className="phone">
+                                +91 99468 44277
+                                </a>
+                                <br />
+                                
                                 Email:{" "}
                                 <a href="mailto:placement@cet.ac.in" className="phone">
                                     placement@cet.ac.in
