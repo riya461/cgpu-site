@@ -30,6 +30,12 @@ export default function Contact() {
                                 0471-2515682
                                 </a>
                                 <br />
+                                Phone:{" "}
+                                <a href="wa.me/+91 99468 44277" className="phone">
+                                +91 99468 44277
+                                </a>
+                                <br />
+                                
                                 Email:{" "}
                                 <a href="mailto:placement@cet.ac.in" className="phone">
                                     placement@cet.ac.in
