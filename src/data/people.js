@@ -269,6 +269,10 @@ export const reps = [
         title: "Adhil Ameen E T",
         subtitle: "MCA",
         
-    },
+    },{
+        img:"/people/reps/aris_anto.jpg",
+        title:"Aris Anto M",
+        subtitle:"M2 Planning (Housing), Department of Architecture and Planning"
+    }
     
 ];
