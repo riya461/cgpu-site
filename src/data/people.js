@@ -4,7 +4,7 @@ export const head = [
         title: "Dr. Jayasree P K",
         subtitle: "Professor", 
         dept: "Civil Engineering",
-        mail: "jayasreepk@cet.ac.in",
+        mail: "placement@cet.ac.in",
     },
     {
         

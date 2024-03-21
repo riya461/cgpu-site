@@ -127,7 +127,7 @@ export default function AboutCGPU() {
               </div>
             </div>
             <div className="box">
-              <h4 className="blue mt-4 mb-2">Student Representatives-25</h4>
+              <h4 className="blue mt-4 mb-2">Student Representatives-2025</h4>
               <div className="cards-container">
                 {repsToggle.map((item, key) => {
                   return (
@@ -150,7 +150,7 @@ export default function AboutCGPU() {
               </div>
             </div>
             <div className="box">
-              <h4 className="blue mt-4 mb-2">Student Representatives-24</h4>
+              <h4 className="blue mt-4 mb-2">Student Representatives-2024</h4>
               <div className="cards-container">
                 {reps24.map((item, key) => {
                   return (
