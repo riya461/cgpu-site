@@ -51,7 +51,6 @@
 
 .phone {
     font-weight: 600;
-    color: var(--dark) !important;
 }
 
 .phone:hover {

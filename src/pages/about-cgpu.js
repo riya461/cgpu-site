@@ -126,7 +126,7 @@ export default function AboutCGPU() {
                 })}
               </div>
             </div>
-            <div className="box">
+            {/* <div className="box">
               <h4 className="blue mt-4 mb-2">Student Representatives-2025</h4>
               <div className="cards-container">
                 {repsToggle.map((item, key) => {
@@ -148,7 +148,7 @@ export default function AboutCGPU() {
                   );
                 })}
               </div>
-            </div>
+            </div> */}
             <div className="box">
               <h4 className="blue mt-4 mb-2">Student Representatives-2024</h4>
               <div className="cards-container">
