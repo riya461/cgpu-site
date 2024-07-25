@@ -1,11 +1,5 @@
 export const head = [
-    {
-        img: "/people/faculty/jayasree.jpg",
-        title: "Dr. Jayasree P K",
-        subtitle: "Professor", 
-        dept: "Civil Engineering",
-        mail: "placement@cet.ac.in",
-    },
+   
     {
         
         img: "/people/faculty/sunil.jpg",
