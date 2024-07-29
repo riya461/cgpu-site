@@ -23,7 +23,7 @@ export default function Placement({ data: _pData }) {
                     <div className="page-head">Placement Highlights</div>
                     <div className="head-desc placement">
                         <span>
-                            CET is one of the very few colleges in Kerala that offer excellent job opportunities to the
+                            CET offers excellent job opportunities to the
                             students via campus placement drives with world renowned companies partaking in the
                             recruitment process.{" "}
                         </span>
