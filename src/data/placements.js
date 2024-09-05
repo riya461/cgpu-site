@@ -1,8 +1,10 @@
+
 export const placements = [
    
     
     {
         year: 2024,
+        pdfLink:"2023-24_summary.pdf",
         data: [
             { branch: "Computer Science and Engineering",  offers: 201, ug:175, pg:26 },
             { branch: "Electronics and Communication Engineering", offers: 68, ug:54, pg:14 },
@@ -18,7 +20,7 @@ export const placements = [
     },
     
     {
-        year: 2023,
+        year: 2023,pdfLink:"2022-23_summary.pdf",
         data: [
             { branch: "Computer Science and Engineering",  offers: 126, ug:80, pg:46 },
             { branch: "Electronics and Communication Engineering", offers: 113, ug:63, pg:50 },
@@ -33,7 +35,7 @@ export const placements = [
         ],
     },
     {
-        year: 2022,
+        year: 2022,pdfLink:"2021-22_summary.pdf",
         data: [
             { branch: "Computer Science and Engineering", offers: 165, ug:94, pg:71 },
             { branch: "Electronics and Communication Engineering", offers: 156, ug: 81, pg:75 },
@@ -49,6 +51,7 @@ export const placements = [
     },
     {
         year: 2021,
+        pdfLink:"2020-21_summary.pdf",
         data: [
             { branch: "Computer Science and Engineering", offers: 138, ug: 113, pg:25},
             { branch: "Electronics and Communication Engineering", offers: 127, ug:80, pg:47 },
@@ -63,7 +66,7 @@ export const placements = [
         ],
     },
     {
-        year: 2020,
+        year: 2020,pdfLink:"2019-20_summary.pdf",
         data: [
             { branch: "Computer Science and Engineering", offers: 136, ug:111, pg:25 },
             { branch: "Electronics and Communication Engineering", offers: 132 , ug: 83, pg:49},
@@ -79,6 +82,7 @@ export const placements = [
     },
     // {
     //     year: 2018,
+    // pdfLink:"",
     //     data: [
     //         { branch: "Computer Science and Engineering", offers: 108 },
     //         { branch: "Electronics and Communication Engineering", offers: 124 },

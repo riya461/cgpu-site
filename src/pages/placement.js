@@ -128,11 +128,12 @@ export default function Placement({ data: _pData }) {
                             </tbody>
                         </table>
                     </div>
-                    <div className="text-center mt-4">
-                    <Link to="/recruiters" className="btn learnbtn white">
-                    More info...
-                    </Link>
-                </div>
+                    <div className="text-center mt-4 border-0 bg-inherit">
+                       
+                        <a href={keyedData[year].pdfLink} download className="hover:underline button learnLink">
+                                        More Details...
+                        </a>
+                    </div>
                 </div>
                 
             </div>
