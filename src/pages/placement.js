@@ -1,10 +1,12 @@
 import React, { useState } from "react";
+import { Link } from "gatsby";
 import { graphql } from "gatsby";
 import Layout from "../components/layout";
 // import { Line } from 'react-chartjs-2';
 import { placements } from "../data/placements";
 import down from "../images/down.svg";
 import "../styles/placement.css";
+
 
 export default function Placement({ data: _pData }) {
     // const pData = _pData.allPlacementJson.nodes;
@@ -64,6 +66,7 @@ export default function Placement({ data: _pData }) {
                     </span>
                 </div>
                 <div className="w-100 table-responsive mb-4 mb-md-0">
+                
                     <div>
                         <table className="table table-striped placement-table m-0">
                             <thead>
@@ -125,7 +128,13 @@ export default function Placement({ data: _pData }) {
                             </tbody>
                         </table>
                     </div>
+                    <div className="text-center mt-4">
+                    <Link to="/recruiters" className="btn learnbtn white">
+                    More info...
+                    </Link>
                 </div>
+                </div>
+                
             </div>
             
         </Layout>

@@ -1,7 +1,21 @@
 export const placements = [
    
     
-    
+    {
+        year: 2024,
+        data: [
+            { branch: "Computer Science and Engineering",  offers: 201, ug:175, pg:26 },
+            { branch: "Electronics and Communication Engineering", offers: 68, ug:54, pg:14 },
+            { branch: "Applied Electronics and Instrumentation",  offers: 47, ug:46, pg:"-"  },
+            { branch: "Electrical and Electronics Engineering", offers: 96, ug: 81, pg:15 },
+            { branch: "Mechanical Engineering", offers: 83, ug: 68, pg:15 },
+            { branch: "Industrial Engineering", offers: 29, ug:28, pg:"-"  },,
+            { branch: "Civil Engineering", offers: 57, ug:35, pg:22 },
+            { branch: "Master of Computer Applications", offers: 47, ug:"-", pg:47 },
+            { branch: "Master of Business Administration", offers: 38, ug:"-", pg:38 },
+            { branch: "Architecture", offers: 9, ug:9, pg:"-" }
+        ],
+    },
     
     {
         year: 2023,
