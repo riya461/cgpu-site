@@ -2,8 +2,15 @@ export const head = [
    
     {
         
-        img: "/people/faculty/sunil.jpg",
-        title: "Dr. Sunil Kumar K",
+        img: "/people/faculty/raj.jpeg",
+        title: "Dr. M. R. Rajkumar",
+        subtitle: "Professor, Mechanical Engineering",
+        mail: "placement@cet.ac.in",
+    },
+    {
+        
+        img: "/people/faculty/unnikrishnan .jpg",
+        title: "Dr. M. Unnikrishnan",
         subtitle: "Professor, Mechanical Engineering",
         mail: "placement@cet.ac.in",
     },
@@ -11,13 +18,19 @@ export const head = [
 ];
 
 export const faculty = [
-   
     {
-        img: "/people/faculty/Praveen.jpg",
-        title: "Prof. Praveen A",
-        subtitle: "Asst. Professor",
+        img: "/people/faculty/abduljaleel.jpg",
+        title: "Prof. Abdul Jaleel H.",
+        subtitle: "Assoc. Professor",
         dept: "Mechanical Engineering",
-        mail: "praveenarjun@cet.ac.in",
+        mail: "jaleelh@gmail.com",
+    },
+    {
+        img: "/people/faculty/tito.jpg",
+        title: "Prof. Titto Anujan",
+        subtitle: "Asst. Professor",
+        dept: "Electronics & Comm. Engineering",
+        mail: "titto@cet.ac.in",
     },
     {
         img: "/people/faculty/Sreeja1.png",
@@ -26,13 +39,7 @@ export const faculty = [
         dept:"Electrical Engineering",
         mail: "sreejas@cet.ac.in",
     },
-    {
-        img: "/people/faculty/linu.jpg",
-        title: "Dr. Linu Shine",
-        subtitle: "Assoc. Professor",
-        dept: "Electronics & Comm.",
-        mail: "linushine@cet.ac.in",
-    },
+    
 ];
 export const student_cordinators = [
     {

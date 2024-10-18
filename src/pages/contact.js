@@ -12,7 +12,11 @@ export default function Contact() {
             <div className="address text-wrap me-md-4 me-lg-5 p-4">
               <h4>Address</h4>
               <p className="p-main">
-                Dr. K. Sunil Kumar
+                Dr. M. R. Rajkumar 
+                <br />
+                &
+                <br />
+                Dr. M. Unnikrishnan
                 <br />
                 Training and Placement Officer
                 <br />
