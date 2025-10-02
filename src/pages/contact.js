@@ -12,11 +12,15 @@ export default function Contact() {
             <div className="address text-wrap me-md-4 me-lg-5 p-4">
               <h4>Address</h4>
               <p className="p-main">
-                Dr. M. R. Rajkumar 
+                Dr. Unnikrishnan M <a href="https://wa.me/919947350636" class="phone">
+                  +91 99473 50636
+                </a>
                 <br />
                 &
                 <br />
-                Dr. M. Unnikrishnan
+                Dr. M. R. Rajkumar <a href="https://wa.me/919947767470" class="phone">
+                  +91 99477 67470
+                </a>
                 <br />
                 Training and Placement Officer
                 <br />
@@ -29,16 +33,6 @@ export default function Contact() {
                 Thiruvananthapuram, Kerala 695016
               </p>
               <p>
-                Phone:{" "}
-                <a href="tel:04712515682" className="phone">
-                  0471-2515682
-                </a>
-                <br />
-                Mobile:{" "}
-                <a href="https://wa.me/919946844277" class="phone">
-                  +91 99468 44277
-                </a>
-                <br />
                 Email:{" "}
                 <a href="mailto:placement@cet.ac.in" className="phone">
                   placement@cet.ac.in

@@ -54,18 +54,10 @@ export default function Footer() {
               Thiruvananthapuram, Kerala 695016
             </div>
             <div>
-              <span>Landline: </span>
-              <span>
-                <a href="tel:04712515682" className="phone">
-                  0471-2515682
-                </a>
-              </span>
-            </div>
-            <div>
               <span>Phone: </span>
               <span>
-                <a href="https://wa.me/+919946844277" className="phone">
-                  +91 99468 44277
+                <a href="https://wa.me/+919947350636" className="phone">
+                  +91 99473 50636
                 </a>
               </span>
             </div>

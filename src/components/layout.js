@@ -3,7 +3,8 @@ import Footer from "./footer";
 import Header from "./header";
 import download from "../images/download.svg";
 import "../styles/layout.css";
-import brochure from "../pages/Brochure.pdf";
+import brochure from "../assets/pdf/NewBrochure.pdf";
+
 
 export default function Layout({ children, page }) {
     useEffect(() => {
